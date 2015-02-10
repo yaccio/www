@@ -6,3 +6,10 @@ section {
     position: absolute;
     top: 150px;
 }
+
+
+@media(max-width:766px) {
+    .anchor-point {
+        top: 0;
+    }
+}
